@@ -18,4 +18,7 @@ Edit text-generation-webui/modules/AutoGPTQ_loader.py add a new line after line 
 
 Lien vers le s models 
 https://huggingface.co/tiiuae/falcon-40b
+
 https://huggingface.co/TheBloke/falcon-40b-instruct-GPTQ
+
+https://www.youtube.com/watch?v=21mHov4Whag
